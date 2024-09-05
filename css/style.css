@@ -6,13 +6,13 @@ h1{
     color: blue;
 }
 
-#third>span{
+/* #third>span{
     visibility: hidden;
-}
+} */
 
-.right>p{
+/* .right>p{
     display: none;
-}
+} */
 
 #logo{
     height: 300px;
