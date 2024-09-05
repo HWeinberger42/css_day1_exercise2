@@ -1,0 +1,24 @@
+div {
+    margin: 5px;    
+}
+
+h1{
+    color: blue;
+}
+
+#third>span{
+    visibility: hidden;
+}
+
+.right>p{
+    display: none;
+}
+
+#logo{
+    height: 300px;
+    width: 300px;
+}
+
+p{
+    color: red;
+}
